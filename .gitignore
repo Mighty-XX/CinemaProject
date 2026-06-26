@@ -1,0 +1,10 @@
+out/
+.idea/
+*.iml
+*.class
+.vscode/
+bin/
+build/
+.settings/
+.classpath
+.project
